@@ -2,6 +2,7 @@ package com.zdravko.helloworld;
 
 //import org.joda.time.LocalTime;
 
+import java.util.Calendar;
 import java.util.Date;
 
 public class HelloWorld {
@@ -11,6 +12,7 @@ public class HelloWorld {
 
         //System.out.println("The current local time is: " + currentTime);
         System.out.println("The current local time is: "  +  new Date());
+        System.out.println("New commit");
 		System.out.println("Hello World");
 
 	}
